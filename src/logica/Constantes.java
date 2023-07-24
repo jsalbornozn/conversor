@@ -9,7 +9,7 @@ public interface Constantes {
 
 	public static final String USD = "USD - Dólar estadounidense";
 	public static final String EUR = "EUR - Euro";
-	public static final String GBP = "GBP - Libra estarlina";
+	public static final String GBP = "GBP - Libra esterlina";
 	public static final String JPY = "JPY - Yen japonés";
 	public static final String KRW = "KRW - Won surcoreano";
 	public static final String COP = "COP - Peso colombiano";

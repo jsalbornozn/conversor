@@ -31,7 +31,7 @@ public class ControlInterfazConversor{
 				                                             "Temperatura", opcionesTemperatura);
         
         InterfazConversor InterfazConversorDatos = new InterfazConversor(width, height,
-				                                       "Datos", opcionesDatos);
+				                                       "tamaños de datos", opcionesDatos);
   
         
         panel.add(InterfazConversorMoneda.getPanel(), "Conversor Moneda"); 
