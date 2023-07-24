@@ -20,5 +20,6 @@ Proyecto propuesto por Alura - ONE el cual permite realizar conversiones de divi
 * Java Swing
 * ExchangeRatesAPI
 ## :clapper:Demostración
- <video src="/recursos/video-demostracion.mp4">
- </video>
+
+https://github.com/jsalbornozn/conversor/assets/129637005/e582a49b-dae4-4e6c-a142-0532a7166b30
+
